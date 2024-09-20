@@ -1,2 +1,3 @@
 # informatica
-## primeira tarefa: apresentação
+## planilhas: formulas e dados abertos
+
