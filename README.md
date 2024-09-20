@@ -28,6 +28,8 @@ Projeto baseado no levantamento dos dados das escolas estaduais do Estado de Sã
 4 - 553 - RURAL
  41380 - URBANO
     
-5 - 914     
+5 - 914  
+
+https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20242/Student%20Work/Working%20files/GABRIEL%20POFFO/Planilhas_%20f%C3%B3rmulas%20e%20dados%20abertos/Planilhas%20f%C3%B3rmulas%20e%20dados%20abertos.xlsx?d=w7dbf8eaefd8948c8983c58235eb9c8cc&csf=1&web=1&e=7CFw7S
 
  
