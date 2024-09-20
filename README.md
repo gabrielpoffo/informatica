@@ -1,6 +1,6 @@
 # TRABALHOS
 
-## Planilhas: fórmulas e dados abertos
+## Planilhas: fórmulas e dados abertos 20/09/24
 
 Template para o trabalho de Informática Aplacada a Logistica 
 
