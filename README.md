@@ -42,6 +42,7 @@ Atividade de informática aplicada a logistica sobre bandeiras de 20 países.
 
  ## Atividade 2 - Power BI - Power BI, dados abertos e Github
 Dashboard com 5 perguntas relacionadas à coleta dos dados da planilha feita no dia 20/09/2024
-![Uploading Captura de tela 2024-11-07 210139.png…]()
+![Captura de tela 2024-11-07 210139](https://github.com/user-attachments/assets/5bba5bb3-c2e2-40ca-9cc4-1ee08ef1219f)
+
 
 
