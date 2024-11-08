@@ -51,4 +51,3 @@ Este projeto consiste na criação de uma dashboard avançada, voltada para o ac
 
 ![Captura de tela 2024-11-07 220019](https://github.com/user-attachments/assets/ece45357-ddc2-49d1-a591-a2fb00ac6298)
 
-
