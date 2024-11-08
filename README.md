@@ -54,6 +54,6 @@ Este projeto consiste na criação de uma dashboard avançada, voltada para o ac
 ## Atividade 4 - Power BI - Power BI fórmulas DAX e  e Github
 Este trabalho tem como objetivo analisar o desempenho das metas de vendas de produtos eletrônicos no ano de 2018, utilizando a ferramenta KPI (Key Performance Indicator) no Power BI. A aplicação de KPIs permite uma avaliação mais precisa e dinâmica das metas estabelecidas, facilitando o acompanhamento do progresso e a identificação de áreas de melhoria nas estratégias de vendas.
 
-![image](https://github.com/user-attachments/assets/d11fb5a6-576f-4912-94ae-bb92a2d0c323)
+https://teams.microsoft.com/l/message/19:8f7f00cd-902f-4e74-b166-05df63fa91a6_a245cfa4-9747-4eb8-8c7e-aa80a1bfd0b2@unq.gbl.spaces/1731108351848?context=%7B%22contextType%22%3A%22chat%22%7D
 
 
