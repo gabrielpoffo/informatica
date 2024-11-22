@@ -56,5 +56,8 @@ Este trabalho tem como objetivo analisar o desempenho das metas de vendas de pro
 
 ![imagem](https://github.com/user-attachments/assets/3bd39b21-f51d-4db3-b078-a6412338c212)
 
+## Power APPs e IA generativa
+Aplicativo demonstrativo sobre 5 times do Brasil e alguns jogadores destes clubes.
+![Capturar](https://github.com/user-attachments/assets/ec886611-5514-4506-97a9-dd64dd32bcf4)
 
 
