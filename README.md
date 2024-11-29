@@ -60,4 +60,15 @@ Este trabalho tem como objetivo analisar o desempenho das metas de vendas de pro
 Aplicativo demonstrativo sobre 5 times do Brasil e alguns jogadores destes clubes.
 ![Capturar](https://github.com/user-attachments/assets/ec886611-5514-4506-97a9-dd64dd32bcf4)
 
+## Prova de Informática Aplicada a Logistica
+atividade 3 - Considerando os dados a seguir, construa um gráfico que mostre a maior temperatura e a temperatura média em cada cidade nos meses apresentados na tabela.  Em seguida, poste o arquivo aqui.
+![Captura de tela 2024-11-28 223022](https://github.com/user-attachments/assets/d02ac6ec-10eb-43d8-8bef-799a13a631f0)
+
+atividade 5 - 
+a) Obtenha um conjunto de dados de sua escolha e explique do que ele se trata.
+b) Construa um dashboard com três visualizações diferentes, correspondente aos dados coletados. 
+c) Suba para o seu Github o arquivo gerado
+d) Tire um print do dashboard  que você gerou  e poste-o aqui.
+![x](https://github.com/user-attachments/assets/f831c788-8d67-4e28-8b1b-fa334802e3a0)
+
 
